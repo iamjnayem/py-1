@@ -1,0 +1,6 @@
+A = set("Bangladesh")
+print(A)
+print(type(A))
+B = set("Sri Lanka")
+print(B)
+print(type(B))
